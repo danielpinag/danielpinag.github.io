@@ -12,7 +12,7 @@ close.forEach(function (link) {
 		content.classList.add("zoomOut");
 
 		setTimeout(function(){
-			location.href = "/";
+			location.href = "/boletines";
 		},600);
 	});
 });
