@@ -1,61 +1,61 @@
 html{
-	font-family: 'Lato Medium';
-	display: flex;
-	align-items: center;
-	justify-content: center;
+  font-family: 'Lato Medium';
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .description{
-	position: relative;
-	text-align: center;
-	font-size: 1.5em;
-	line-height: 1em
+  position: relative;
+  text-align: center;
+  font-size: 1.5em;
+  line-height: 1em
 }
 .header{
-	text-align: center;
-	color: red;
-	font-size: 1.8em;
+  text-align: center;
+  color: red;
+  font-size: 1.8em;
 }
 .button{
-	display: block;
-	background-color: #edae0e;
-	width: 20em;
-	height: 3em;
-	border-radius: 10px;
-	line-height: 3em;
-	font-size: 1.2em;
-	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  display: block;
+  background-color: #edae0e;
+  width: 20em;
+  height: 3em;
+  border-radius: 10px;
+  line-height: 3em;
+  font-size: 1.2em;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 .button-text{
-	text-align: center;
-	display: block;
-	display: flex;
-	align-content: center;
-	justify-content: center;
+  text-align: center;
+  display: block;
+  display: flex;
+  align-content: center;
+  justify-content: center;
 }
 .link{
-	text-decoration: none;
+  text-decoration: none;
 
 }
 .share{
-	font-size: 1.5em;
+  font-size: 1.5em;
 }
 .number-image{
-	height:123;
-	float:;
-	display: inline-block
+  height:123;
+  float:;
+  display: inline-block
 }
 .number{
-	text-align: center;
-	font-size: 2em;
-	padding-bottom: 0;
-	padding-top: 0
+  text-align: center;
+  font-size: 2em;
+  padding-bottom: 0;
+  padding-top: 0
 }
 a:visited{
-	color: initial;
+  color: initial;
 }
 a:hover{
-	opacity: 0.8;
+  opacity: 0.8;
 }
 .button:hover{
-	opacity: 0.8;
+  opacity: 0.8;
 }
