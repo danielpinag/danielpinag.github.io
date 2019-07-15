@@ -4,11 +4,16 @@ html{
   align-items: center;
   justify-content: center;
 }
+p{
+  display: block;
+  margin: 0.5em;
+}
 .description{
   position: relative;
   text-align: center;
   font-size: 1.5em;
   line-height: 1em
+  margin-bottom:0em;
 }
 .header{
   text-align: center;
@@ -34,15 +39,20 @@ html{
 }
 .link{
   text-decoration: none;
-
+  margin-bottom: 1em;
 }
 .share{
   font-size: 1.5em;
+  margin-top: 1em;
+  margin-bottom: .6em;
+  margin-left: 0em; 
+}
+.contact{
+  display: block;
+  margin-top: 0em;
 }
 .number-image{
-  height:123;
-  float:;
-  display: inline-block
+  display: inline-block;
 }
 .number{
   text-align: center;
